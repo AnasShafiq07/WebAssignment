@@ -1,0 +1,1 @@
+{"Doctor":{"DoctorId":1003,"Name":"ahmed               ","Specialization":"eyes                "},"DeletionDate":"2024-10-09T00:00:00-07:00","RecordTimestamp":"2024-10-09T09:12:22.925262-07:00"}

@@ -1,0 +1,2 @@
+{"Patient":{"PatientId":2006,"Name":"ans","Email":"j@gmail.com","Disease":"ashl"},"DeletionDate":"2024-10-09T00:00:00-07:00","RecordTimestamp":"2024-10-09T09:13:03.3075707-07:00"}
+{"Patient":{"PatientId":1006,"Name":"anas","Email":"hassan@gmail.com","Disease":"no"},"DeletionDate":"2024-10-09T00:00:00-07:00","RecordTimestamp":"2024-10-09T09:17:20.2853814-07:00"}

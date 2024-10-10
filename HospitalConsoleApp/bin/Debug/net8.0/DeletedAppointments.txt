@@ -1,0 +1,1 @@
+{"Appointment":{"AppointmentId":3011,"PatientId":7,"DoctorId":1,"AppointmentDate":"2024-10-10T00:00:00"},"DeletionDate":"2024-10-09T00:00:00-07:00","RecordTimestamp":"2024-10-09T09:13:27.1830221-07:00"}
